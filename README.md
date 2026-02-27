@@ -19,4 +19,6 @@ Midnight Client is an open-source Discord utility client designed to help server
 🔐 Permission-based command system
 
 🛡 Built-in rate limit protection
-made by cats
+
+
+(made by cats)
