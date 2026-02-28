@@ -1,0 +1,16 @@
+# HTTP & web scraping
+requests
+tls-client
+beautifulsoup4
+
+# GUI
+PyQt6
+PyQt6-WebEngine
+
+# Image processing
+Pillow
+
+# WebSocket
+websocket-client
+
+to run do eg. pip install requests in cmd
